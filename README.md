@@ -7,7 +7,7 @@
 [![Pull requests](https://img.shields.io/github/issues-pr/Crazy-Marvin/Mirry.svg?style=flat)](https://github.com/Crazy-Marvin/Mirry/pulls)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/379c59381e784f42b5910864e574bd8e)](https://www.codacy.com/gh/Crazy-Marvin/Mirry?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Crazy-Marvin/Mirry&amp;utm_campaign=Badge_Grade)
 [![codecov](https://codecov.io/gh/Crazy-Marvin/Mirry/branch/master/graph/badge.svg)](https://codecov.io/gh/Crazy-Marvin/Mirry)
-[![Crowdin](https://badges.crowdin.net/mirry/localized.svg)](https://crowdin.com/project/mirry)
+Hosted Weblate
 [![Known Vulnerabilities](https://snyk.io/test/github/Crazy-Marvin/Mirry/badge.svg?targetFile=app%2Fbuild.gradle)](https://snyk.io/test/github/Crazy-Marvin/Mirry?targetFile=app%2Fbuild.gradle)
 [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
 [![F-Droid](https://img.shields.io/f-droid/v/rocks.poopjournal.mirry.svg)](https://f-droid.org/en/packages/rocks.poopjournal.mirry/)
